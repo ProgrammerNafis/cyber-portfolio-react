@@ -1,0 +1,157 @@
+.crnt-main-cont{
+  
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 2.5rem;
+
+}
+
+.current-target .crnt-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.current-target .crnt-text{
+    width: 852px;
+    height: 52px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: "Azeret Mono", monospace;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+
+
+
+.flex-item-card{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.flex-item-card .html{
+    width: 364px;
+    height: 332px;
+    padding: 45px;
+    background-color: rgb(255, 246, 243);
+    border-radius: 10px;
+}
+.flex-item-card .css{
+    width: 364px;
+    height: 332px;
+    padding: 45px;
+    background-color: rgb(242, 246, 254);
+    border-radius: 10px;
+}
+.flex-item-card .js{
+    width: 364px;
+    height: 332px;
+    padding: 45px;
+    background-color: rgb(253, 253, 242);
+    border-radius: 10px;
+}
+
+.html-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 800;
+    margin-top: 1rem;
+}
+
+
+ .html-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: "Azeret Mono", monospace;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+
+}
+
+.html-link{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #0D1321;
+    margin-bottom: 1rem;
+    
+}
+
+
+.next-target{
+    margin-top: 111px;
+
+}
+
+.next-target .nxt-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 800;
+
+
+}
+
+.next-target .nxt-text{
+    width: 852px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: "Azeret Mono", monospace;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    margin: 1rem auto 48px;
+    text-align: center;
+}
+
+
+.nxt-cards .crd-nxt{
+    width: 1140px;
+    height: 219px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    border: 0.5px solid  #0D1321;
+    border-radius: 10px;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+
+.crd-nxt .crd-nxt-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 800;
+    /* margin-top: 1rem; */
+}
+
+.crd-nxt .crd-nxt-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: "Azeret Mono", monospace;
+    width: 935px;
+   
+    margin-top: 0.7rem;
+    margin-bottom: 2rem;
+}
+
+
+.crd-nxt .crd-nxt-link{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #0D1321;
+}

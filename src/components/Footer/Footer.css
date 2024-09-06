@@ -1,0 +1,97 @@
+.footer-main{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 2.5rem;
+    font-family: "Azeret Mono", monospace;
+    
+}
+
+
+.bg-footer-img{
+    background-image: url('../../assets/Frame 8.png');
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 313px;
+    padding: 64px 48px;
+   
+}
+
+.f-title{
+    font-size: 32px;
+    line-height: 37px;
+    color: white;
+    text-align: center;
+}
+
+.f-text{
+    width: 606px;
+    margin: 0.7rem auto 0;
+    color: white;
+    font-family: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    text-align: center;
+    appearance: 70%;
+    opacity: 0.7;
+}
+.input-box{
+    width: 548px;
+    height: 57px;
+    background-color: white;
+    border-radius: 10px;
+   
+
+}
+
+input:focus{
+    border: 0px;
+    outline: none;
+}
+
+input::placeholder{
+    font-family: "Azeret Mono", monospace;
+    padding-left: 1rem;
+}
+
+
+.f-sbt{
+    width: 120px;
+    height: 57px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.inpt-sbt{
+    margin-left: 13rem;
+    margin-top: 1.5rem;
+}
+
+
+.footer-last{
+    background-color: rgb(247, 248, 248);
+    width: 100%;
+    height: 100px;
+    margin-top: 5rem;
+    padding: 32px 0px;
+}
+
+.foot-lst{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.ico-last > img{
+    margin-left: 1.7rem;
+
+}
+
+.flst-name > h2{
+    font-family: "Azeret Mono";
+    font-weight: 600;
+    font-size: 20px;
+}
